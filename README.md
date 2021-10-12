@@ -15,7 +15,7 @@ languages such as R, Go (Golang if you prefer), Lua, Javascript, and Java.
 
 #### Frameworks
 
-![Opengl](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) ![R-Framework](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![git-fw](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![cmake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Opengl](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) ![R-Framework](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![git-fw](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![cmake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 
 #### Operating Systems
@@ -26,7 +26,7 @@ languages such as R, Go (Golang if you prefer), Lua, Javascript, and Java.
 
 #### IDEs
 
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) [![atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) ![pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) ![pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white) ![rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) ![emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbacbd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
