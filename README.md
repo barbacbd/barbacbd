@@ -29,7 +29,8 @@ languages such as R, Go (Golang if you prefer), Lua, Javascript, and Java.
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) ![pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white) ![rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) ![emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbacbd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbacbd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbacbd&layout=compact)](https://github.com/barbacbd/github-readme-stats)
+
 
 <!--
 **barbacbd/barbacbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
