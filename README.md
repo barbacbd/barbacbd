@@ -1,33 +1,49 @@
-### Hello! I'm Brent (barbacbd) 👋
+<h1 align="center">
+  <a href="https://github.com/barbacbd/">
+    <img src=".images/vw-bus.png" width="256" height="128" border-radius="50%" >
+  </a>
+  <br>Nautical</br>
+</h1>
+
+<h2 align="center">
+
+
+### 👋 Hello! I'm Brent (barbacbd) 
 
 I have been developing since I was in highschool (an amount of time I am becoming more scared to admit). I enjoy spending 
-most of my time outside with family and friends. I mention this because it is also where a lot of my personal programming 
-originates. I have used python, C, and C++ substantially during my entire professional career. I also have experience with
-languages such as R, Go (Golang if you prefer), Lua, Javascript, and Java. 
+most of my time outside with family and friends. The majority of my personal programming experiences are driven by my love of the outdoors. 
 
-#### Languages
+I have spent all of my professional career developing on linux systems. I had a strong desire to work for [Red Hat](https://www.redhat.com/en/our-code-is-open?sc_cid=7013a000002q2WoAAI&gclid=EAIaIQobChMI4ufL5cfB-AIVi47ICh3XbQDDEAAYASAAEgKExvD_BwE&gclsrc=aw.ds). In 2022, I jumped at the opportunity to experience life at Red Hat. 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white) ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![R-Language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+I have experience with python, Go, C, and C++ substantially during my professional career. I also have experience with
+languages such as R, Lua, Javascript, Bash, and Java. 
 
 
-#### Frameworks
+### ⚡ What is with the VW Bus?
 
-![Opengl](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) ![R-Framework](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![git-fw](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![cmake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+I have a fascination with cars (and so does my son). I love to surf too, and the VW Bus has always been my dream car! It is my goal to save up, buy, and restore a VW Bus. I would like to think that the VW Bus is a nice summary of me, so it is the image/symbol I choose to use.
 
+## 🔭 What am I currently working on ?
 
-#### Operating Systems
+- [Nautical](https://github.com/barbacbd/nautical)
+- [Local Climate Change Prediction](https://github.com/barbacbd/predictor)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](	https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Centos](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white) ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
-#### IDEs
+- [Openshift Installer](https://github.com/barbacbd/installer)
+- [Openshift Ansible](https://github.com/barbacbd/openshift-ansible)
 
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) ![pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white) ![rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) ![emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+## 🌱 What am I currently learning
+
+- How to build [NetLogo](https://github.com/NetLogo/NetLogo) on RHEL-8 / Improve the process and documentation
+
+## 👯 I’m looking to collaborate on
+
+- Simulation Environments. I have experience with [NetLogo](https://github.com/NetLogo/NetLogo), so that has been my focus.
+
+- [FEAST](https://github.com/Craigacp/FEAST) - Adding the python extension
+
+- Self Driving/Steering Projects - I spent five years in the field creating autonomous surface vessels. It had a strong impact on my career, and I am always willing to learn and contribute to similar projects. 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbacbd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbacbd&layout=compact)](https://github.com/barbacbd/github-readme-stats)
 
