@@ -35,7 +35,7 @@ I have a fascination with cars (and so does my son). I love to surf too, and the
 
 ## 🌱 What am I currently learning
 
-- How to build [NetLogo](https://github.com/NetLogo/NetLogo) on RHEL-8 / Improve the process and documentation
+
 
 ## 👯 I’m looking to collaborate on
 
@@ -44,6 +44,8 @@ I have a fascination with cars (and so does my son). I love to surf too, and the
 - [FEAST](https://github.com/Craigacp/FEAST) - Adding the python extension
 
 - Self Driving/Steering Projects - I spent five years in the field creating autonomous surface vessels. It had a strong impact on my career, and I am always willing to learn and contribute to similar projects. 
+
+- Controller Area Networks (CAN-Bus)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbacbd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbacbd&layout=compact)](https://github.com/barbacbd/github-readme-stats)
 
