@@ -18,6 +18,7 @@ I have spent all of my professional career developing on linux systems. I had a 
 I have experience with python, Go, C, and C++ substantially during my professional career. I also have experience with
 languages such as R, Lua, Javascript, Bash, and Java. 
 
+Checkout my simple [portfolio](https://barbacbd.github.io/) for more information!
 
 ### ⚡ What is with the VW Bus?
 
