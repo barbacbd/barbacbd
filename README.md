@@ -35,6 +35,7 @@ Checkout my github [portfolio](https://barbacbd.github.io/) for more information
 
 - [Nautical](https://github.com/barbacbd/nautical)
 - [Local Climate Change Prediction](https://github.com/barbacbd/predictor)
+- [Alexa Skill](https://github.com/barbacbd/alexa-buoys)
 
 ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
