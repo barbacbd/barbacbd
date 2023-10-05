@@ -43,9 +43,6 @@ Checkout my github [portfolio](https://barbacbd.github.io/) for more information
 - [Openshift Ansible](https://github.com/barbacbd/openshift-ansible)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbacbd&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbacbd&layout=compact)](https://github.com/barbacbd/github-readme-stats)
-
-
 <!--
 **barbacbd/barbacbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
