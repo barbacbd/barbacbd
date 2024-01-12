@@ -32,11 +32,13 @@ Checkout my github [portfolio](https://barbacbd.github.io) for more information!
 - [Nautical](https://github.com/barbacbd/nautical)
 - [Local Climate Change Prediction](https://github.com/barbacbd/predictor)
 - [Alexa Skill](https://github.com/barbacbd/alexa-buoys)
+- [NHL Predictive Model](https://github.com/barbacbd/NHLModel)
 
 ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 - [Openshift Installer](https://github.com/barbacbd/installer)
 - [Openshift Ansible](https://github.com/barbacbd/openshift-ansible)
+- [Openshift Installer CI Plugin](https://github.com/barbacbd/openshift-installer-ci-plugin)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbacbd&layout=compact)](https://github.com/barbacbd/github-readme-stats)
 

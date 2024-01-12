@@ -98,3 +98,7 @@
       * Testing
       * Simple PRs
       * Raising Issues
+  * Release
+      * Create new CI steps
+      * Create new CI (custom) tests
+      * Extend CI tests
